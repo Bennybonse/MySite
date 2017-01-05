@@ -1,9 +1,0 @@
-"Average FPS"--;
-"Minimum FPS"--;
-"Maximum FPS"--;
-"Max CPU Temp"--;
-"Max GPU Temp"--;
-"Observed Bottleneck"--CPU/GPU/Memory/unknown;
-"Display resolution"--;
-"Display Mode"--Fullscreen/BorderlessFullscreen/BorderlessWindow/Windowed;
-"Graphics Settings"--;

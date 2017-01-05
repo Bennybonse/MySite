@@ -1,6 +1,0 @@
-"General Impressions"--;
-"Graphics"--;
-"Performance Impression"--;
-"Controls"--;
-"Value"--;
-"Buy/Wait/Pass"--;
