@@ -9,25 +9,33 @@ h1 {
     text-align: center;
 }
 
-h2{
+ul {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
+
+li a {
+    color: #666;
 	
 }
-
-.navul{
-	border-style: solid;
-	border-color: white;
-	border-width: 0.1em;
-}
-
-.navli{
-
+li {
+    text-align: center;
+    border-bottom: 1px solid #555;
 	float: left;
-	width: 18%
+	width: 20%;
 }
 
-.nava{
-	display: block;
-	
+li:last-child {
+    border-bottom: none;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
 }
 
 p {
